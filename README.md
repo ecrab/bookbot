@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first project!
+BookBot reads in text files and returns word and character counts.
